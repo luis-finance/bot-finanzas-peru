@@ -1,0 +1,83 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "source": "whatsapp",
+      "type": "gasto",
+      "amount": 5,
+      "currency": "PEN",
+      "category": "Servicios & Bancos",
+      "description": "Gaste 5 soles en un chip claro",
+      "date": "2026-08-01 04:31:36",
+      "created_at": "2026-08-01T04:31:36.484Z"
+    },
+    {
+      "id": 2,
+      "source": "whatsapp",
+      "type": "ingreso",
+      "amount": 150,
+      "currency": "PEN",
+      "category": "Ventas e Ingresos",
+      "description": "Ingreso de 150 soles asesoria financiera",
+      "date": "2026-08-01 04:51:07",
+      "created_at": "2026-08-01T04:51:07.950Z"
+    },
+    {
+      "id": 3,
+      "source": "whatsapp",
+      "type": "gasto",
+      "amount": 5,
+      "currency": "PEN",
+      "category": "Transporte & Viajes",
+      "description": "Pasaje bus 5 soles",
+      "date": "2026-08-01 04:56:09",
+      "created_at": "2026-08-01T04:56:09.204Z"
+    },
+    {
+      "id": 4,
+      "source": "whatsapp",
+      "type": "gasto",
+      "amount": 11,
+      "currency": "PEN",
+      "category": "Transporte & Viajes",
+      "description": "11 soles gasto en taxi",
+      "date": "2026-08-01 05:02:27",
+      "created_at": "2026-08-01T05:02:27.213Z"
+    },
+    {
+      "id": 5,
+      "source": "whatsapp",
+      "type": "gasto",
+      "amount": 5,
+      "currency": "PEN",
+      "category": "Varios / Otros",
+      "description": "Gasto de papel higiénico 5 soles",
+      "date": "2026-08-01 05:13:33",
+      "created_at": "2026-08-01T05:13:33.687Z"
+    },
+    {
+      "id": 6,
+      "source": "whatsapp",
+      "type": "ingreso",
+      "amount": 1000,
+      "currency": "PEN",
+      "category": "Ventas e Ingresos",
+      "description": "Ingreso de 1 mil soles de sueldo",
+      "date": "2026-08-01 05:59:44",
+      "raw_data": null,
+      "created_at": "2026-08-01T05:59:55.597Z"
+    },
+    {
+      "id": 7,
+      "source": "whatsapp",
+      "type": "ingreso",
+      "amount": 500,
+      "currency": "PEN",
+      "category": "Ventas e Ingresos",
+      "description": "Ingreso de 500 soles en ventas.",
+      "date": "2026-08-01 06:05:55",
+      "raw_data": null,
+      "created_at": "2026-08-01T06:06:36.205Z"
+    }
+  ]
+}
